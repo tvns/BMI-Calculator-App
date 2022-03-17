@@ -197,32 +197,3 @@ else:
 	st.markdown('#### Foods to help you lose Obesity :')
 	st.image('https://i.pinimg.com/736x/90/65/d3/9065d3f60cd41a2ce92630be2b81ed5f.jpg')
 	st.markdown("Source: [Foods for preventing Obesity](https://i.pinimg.com/736x/90/65/d3/9065d3f60cd41a2ce92630be2b81ed5f.jpg)")
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
